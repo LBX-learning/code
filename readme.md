@@ -3,5 +3,3 @@
 
 ### 2.在线预览地址
 [https://nbviewer.org/github/LBX-learning/code/]
-
-https://nbviewer.org/github/LBX-learning/code/ 
